@@ -1,0 +1,16 @@
+#div-padre{
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+h1{
+    color: chocolate;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+p{
+    color: brown;
+}
